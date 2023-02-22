@@ -1,1 +1,1 @@
-insert into `user`(user_name,age) values('unknown',33);
+insert into `user`(name,age) values('unknown-user',33);
